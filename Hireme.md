@@ -18,6 +18,7 @@
 * 團隊實作與敏捷開發
 * 系統思考與系統動態學
 * 設計思考
+* Linux 系統管理實務
  
 ### Skills
 * Front-end Development
@@ -47,7 +48,7 @@ StayTuned Frond-end Development Intern
 * AIS3 新型態資安暑期課程 2017
 
 ### Thesis
-* The Enhancement of SNMP Based on REST
+* Enhancement of SNMP Based on REST
 https://github.com/carefreetime/rest-snmp
 
 ### Contact
